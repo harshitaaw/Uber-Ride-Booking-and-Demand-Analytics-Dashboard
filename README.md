@@ -419,53 +419,25 @@ Business Insights
         ↓
 Power BI Dashboard
 
+## **🖼️ Dashboard Preview**
 
+### **Overview Dashboard**
 
-# 🧮 DAX & Analytics
+![Overview Dashboard](Overview.png)
 
-The project uses **DAX (Data Analysis Expressions)** to create business measures and analytical calculations.
+### **Vehicle Analysis**
 
-Example:
+![Vehicle Analysis](Vehicle.png)
 
-```DAX
-Revenue =
-SUM('Uber_Data'[Revenue])
-Completion Rate
-Completion Rate =
-DIVIDE(
-    [Completed Bookings],
-    [Bookings],
-    0
-)
+### **Revenue Analysis**
 
-Average Revenue per Booking
-Average Revenue per Booking =
-DIVIDE(
-    [Revenue],
-    [Completed Bookings],
-    0
-)
+![Revenue Analysis](Revenue.png)
 
-Revenue per Kilometer
-Revenue per KM =
-DIVIDE(
-    [Revenue],
-    [Total Distance],
-    0
-)
+### **Customer Analysis**
 
-# Revenue Contribution
-Revenue Contribution % =
-DIVIDE(
-    [Revenue],
-    CALCULATE(
-        [Revenue],
-        ALL('Uber_Data'[Vehicle_Type])
-    ),
-    0
-)
+![Customer Analysis](Customer.png)
 
-These measures enable the dashboard to move beyond simple aggregation and provide business-oriented performance metrics.
+### **Location Analysis**
 
-
+![Location Analysis](Location.png)
 
