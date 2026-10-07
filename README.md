@@ -467,5 +467,5 @@ DIVIDE(
 
 These measures enable the dashboard to move beyond simple aggregation and provide business-oriented performance metrics.
 
-<img width="1027" height="562" alt="Screenshot 2026-10-07 203212" src="https://github.com/user-attachments/assets/4f527098-07b6-4358-bf52-4777725dd642" />
+
 
