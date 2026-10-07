@@ -22,8 +22,6 @@ This project transforms ride-level transactional data into an interactive Power 
 
 The dashboard is designed from a **business decision-making perspective**, focusing not only on visualizing data but also on identifying performance trends, risks, and opportunities.
 
-> **Dataset Note:** The original local dataset used during development was accidentally deleted. The dataset included in this repository is a **recreated synthetic ride-level dataset containing 150,000 records and 23 features**, structured to support the analysis and dashboard shown in this project. It is not Uber's proprietary internal data.
-
 ---
 
 # 🎯 Business Objectives
@@ -75,8 +73,6 @@ The recreated dataset contains:
 | Cancellation | Cancellation Reason, Incomplete Reason |
 | Status Metrics | Completed Booking, Lost Booking |
 | Time Intelligence | Month, Quarter, Day, Time Slot |
-
-The complete field-level documentation is available in [`data_dictionary.csv`](data_dictionary.csv).
 
 ---
 
