@@ -341,6 +341,85 @@ The dashboard uses DAX-based measures to calculate important business metrics in
 - Customer Cancellation Rate
 
 ---
+🚀 Future Enhancements
+The project can be extended with advanced analytics capabilities such as:
+- Real-time ride data integration
+- Demand forecasting
+- Customer churn prediction
+- Driver performance analytics
+- Predictive cancellation analysis
+- Geographic demand forecasting
+- Dynamic pricing analysis
+- AI-powered business insights
+- Automated Power BI Service refresh
+- Advanced anomaly detection
+
+📚 Key Learnings
+Through this project, I developed practical experience in:
+- End-to-end Power BI dashboard development
+- Data cleaning and transformation using Power Query
+- Creating DAX measures
+- Data modeling and relationships
+- Time-based analysis
+- KPI development
+- Business-oriented data analysis
+- Customer segmentation
+- Revenue analysis
+- Operational performance analysis
+- Data storytelling
+- Dashboard UX and navigation
+- Translating business requirements into analytical solutions
+
+📊 Business Impact
+The dashboard provides a consolidated view of ride operations and can help stakeholders:
+- Track business performance
+- Identify revenue growth opportunities
+- Detect revenue loss areas
+- Compare vehicle performance
+- Improve fleet utilization
+- Understand customer behavior
+- Reduce cancellation-related losses
+- Identify high-demand locations
+- Understand peak operating periods
+- Support data-driven decision-making
+
+🛠 Tools & Technologies
+Business Intelligence
+- Microsoft Power BI
+- Power BI Service / Microsoft Fabric
+Data Analysis
+- Power Query
+- DAX
+- Data Modeling
+- Time Intelligence
+Dashboard Development
+- KPI Design
+- Interactive Visualizations
+- Dashboard UX
+- Data Storytelling
+- Drill-down and filtering
+- Interactive Navigation
+🔄 Project Workflow
+The project follows an end-to-end analytics workflow:
+Raw Ride-Level Data
+        ↓
+Data Cleaning & Transformation
+        ↓
+Power Query
+        ↓
+Data Modeling
+        ↓
+DAX Measures
+        ↓
+KPI Development
+        ↓
+Interactive Visualizations
+        ↓
+Business Insights
+        ↓
+Power BI Dashboard
+
+
 
 # 🧮 DAX & Analytics
 
@@ -387,78 +466,6 @@ DIVIDE(
 )
 
 These measures enable the dashboard to move beyond simple aggregation and provide business-oriented performance metrics.
-🛠 Tools & Technologies
-Business Intelligence
-- Microsoft Power BI
-- Power BI Service / Microsoft Fabric
-Data Analysis
-- Power Query
-- DAX
-- Data Modeling
-- Time Intelligence
-Dashboard Development
-- KPI Design
-- Interactive Visualizations
-- Dashboard UX
-- Data Storytelling
-- Drill-down and filtering
-- Interactive Navigation
-🔄 Project Workflow
-The project follows an end-to-end analytics workflow:
-Raw Ride-Level Data
-        ↓
-Data Cleaning & Transformation
-        ↓
-Power Query
-        ↓
-Data Modeling
-        ↓
-DAX Measures
-        ↓
-KPI Development
-        ↓
-Interactive Visualizations
-        ↓
-Business Insights
-        ↓
-Power BI Dashboard
 
-📊 Business Impact
-The dashboard provides a consolidated view of ride operations and can help stakeholders:
-- Track business performance
-- Identify revenue growth opportunities
-- Detect revenue loss areas
-- Compare vehicle performance
-- Improve fleet utilization
-- Understand customer behavior
-- Reduce cancellation-related losses
-- Identify high-demand locations
-- Understand peak operating periods
-- Support data-driven decision-making
-📚 Key Learnings
-Through this project, I developed practical experience in:
-- End-to-end Power BI dashboard development
-- Data cleaning and transformation using Power Query
-- Creating DAX measures
-- Data modeling and relationships
-- Time-based analysis
-- KPI development
-- Business-oriented data analysis
-- Customer segmentation
-- Revenue analysis
-- Operational performance analysis
-- Data storytelling
-- Dashboard UX and navigation
-- Translating business requirements into analytical solutions
-🚀 Future Enhancements
-The project can be extended with advanced analytics capabilities such as:
-- Real-time ride data integration
-- Demand forecasting
-- Customer churn prediction
-- Driver performance analytics
-- Predictive cancellation analysis
-- Geographic demand forecasting
-- Dynamic pricing analysis
-- AI-powered business insights
-- Automated Power BI Service refresh
-- Advanced anomaly detection
+<img width="1027" height="562" alt="Screenshot 2026-10-07 203212" src="https://github.com/user-attachments/assets/4f527098-07b6-4358-bf52-4777725dd642" />
+
