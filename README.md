@@ -1,4 +1,4 @@
-# 🚖 Uber Power BI Dashboard | Business Analytics Project
+# 🚖 Uber Power BI Dashboard |  Analytics Project
 
 An end-to-end **Power BI business analytics project** designed to analyze ride-level data and generate actionable insights across **bookings, revenue, vehicle performance, customer behavior, cancellations, and locations**.
 
